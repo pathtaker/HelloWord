@@ -1,2 +1,2 @@
 # HelloWord
-My First GitHub Program
+My First C++ GitHub Program
